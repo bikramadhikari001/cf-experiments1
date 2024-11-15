@@ -1,0 +1,16 @@
+{
+  "name": "shiny-thunder-5b8a",
+  "version": "1.0.0",
+  "description": "Cloudflare Worker for AI-powered travel itinerary generation",
+  "main": "index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "wrangler dev --test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  },
+  "type": "module"
+}
