@@ -1,0 +1,9 @@
+name = "shiny-thunder-5b8a"
+main = "index.js"
+compatibility_date = "2023-01-01"
+
+[build]
+command = ""
+
+[deploy]
+main = "index.js"
